@@ -1,51 +1,60 @@
-body{
+body {
     background-color: black;
 }
-img{
-position: relative;
-left: 140px;
+
+img {
+    position: relative;
+    left: 140px;
 }
-#bumbo{
-    position:absolute;
+
+#bumbo {
+    user-select: none;
+    position: absolute;
     background-color: red;
     bottom: 70px;
     left: 700px;
     color: white;
 }
-#caixa{
-    position:absolute;
+
+#caixa {
+    position: absolute;
     background-color: red;
     color: white;
     bottom: 390px;
     left: 400px;
 }
-h1{
+
+h1 {
     font-family: Arial, Helvetica, sans-serif;
 
 }
-#prato{
-    position:absolute;
+
+#prato {
+    position: absolute;
     background-color: red;
     color: white;
     bottom: 500px;
     left: 240px;
 }
-#tom1{
-    position:absolute;
+
+#tom1 {
+    position: absolute;
     background-color: red;
     color: white;
     bottom: 450px;
     left: 610px;
 }
-#tom2{
-    position:absolute;
+
+#tom2 {
+    position: absolute;
     background-color: red;
     color: white;
     bottom: 450px;
     left: 830px;
 }
-#surdo{
-    position:absolute;
+
+#surdo {
+    position: absolute;
     background-color: red;
     color: white;
     bottom: 300px;
